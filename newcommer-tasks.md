@@ -40,13 +40,15 @@ In this section, some required philosophies your should know before every thing 
  - [ ]   Install a GNU/Linux distribution, any one would be okay as you like. Linux Mint, Ubuntu, Fedora or openSUSE is better for newcomer who has no any experience in GNU/Linux.
  - [ ]   Learn basic Linux command and shell programing
  - [ ]   (Important) **Git and GitHub** ( Reading “*Pro Git*” first, [Chinese version available](https://git-scm.com/book/zh/v2))
- - [ ]   (Important) Upload your programming homework or design to GitHub, ask others to improve your code / design.
+ - [ ]   (Important) Upload your programming homework or design to GitHub, ask others to improve your code or design.
  - [ ]   (Important) Watching some projects.
-     * Read and learn the project's Getting Start documents or newcomer document
-     * Join in the community, subscribe their mailing list(s) and join in IRC chat
-     * Learn the progress of their development
-     * Learn how to submit Bug report
-     * Learn how to commit code to their code repository and collaborate with others.
+ 
+     > Read and learn the project's Getting Start documents or newcomer document
+     > Join in the community, subscribe their mailing list(s) and join in IRC chat
+     > Learn the progress of their development
+     > Learn how to submit Bug report
+     > Learn how to commit code to their code repository and collaborate with others.
+     
  > Where to find projects? A good resource is watching communities that participate [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/) every year. It provides a list that you can find which one you prefer and involves in.
  - [ ]   Learn Markdown and write a README file to your project in GitHub.
  - [ ]   Learn a programing language, Python, C, Java and JavaScript would be good for startup.
