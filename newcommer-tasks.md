@@ -5,17 +5,22 @@ Here is a ToDo List which you could follow to make your first step to Free Softw
 How to use this list? You could just copy and paste the whole content to other place. Or download the print-ready PDF file.
 You can finish all these tasks just in A MONTH!
 
-Pre-Start
----------
+## Pre-Start
 
 All list below are must-have and all important!
- English. English is must-have capability to join in a FOSS community, if you cannot read this page without any assistance, please improve your English first.
- For Internet searching, using Google or DuckDuckGo, don't use Baidu. Google is not a perfect search engine for respecting your freedom, however it is better than Baidu. For runner-up option, Bing English version is okay for temporary use.
- Learn how to jump outside GFW, you can using ANY method to do it, because most international FOSS project are outside GFW, and GFW may interrupts connection to their websites, service, and so many things… Remember that if you use someone else's server to jump outside GFW, you have to concern about your privacy, ONLY encrypted connection (HTTPS) and encrypted content are allowed ALL THE TIME, especially login or submit any privacy information.
+
+- English. English is must-have capability to join in a FOSS community, if you cannot read this page without any assistance, please improve your English first.
+- For Internet searching, using Google or DuckDuckGo, don't use Baidu. Google is not a perfect search engine for respecting your freedom, however it is better than Baidu. For runner-up option, Bing English version is okay for temporary use.
+- Learn how to jump outside GFW, you can using ANY method to do it, because most international FOSS project are outside GFW, and GFW may interrupts connection to their websites, service, and so many things… Remember that if you use someone else's server to jump outside GFW, you have to concern about your privacy, ONLY encrypted connection (HTTPS) and encrypted content are allowed ALL THE TIME, especially login or submit any privacy information.
+
 Personal
+---------
+
 [1 ~ 2 days]
+
 This section introduces some personal preparation.
- A English Name, better for participate in a international project.
+
+ - [ ]  A English Name, better for participate in a international project.
  (Important) Gmail/Or any other mailbox, don't use any mailbox service that its server located in China. For runner-up option Mirco$oft's Outlook is okay.
  A blog, where from out of China could read and share (DreamWidth.org, Medium.com, Noblog.org, Blogger and WordPress are recommended for newcomer)
  Update your profile and resume with skills and FOSS contributions (English and Chinese)
