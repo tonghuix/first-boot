@@ -44,9 +44,13 @@ In this section, some required philosophies your should know before every thing 
  - [ ]   (Important) Watching some projects.
  
 > Read and learn the project's Getting Start documents or newcomer document
+
 > Join in the community, subscribe their mailing list(s) and join in IRC chat
+
 > Learn the progress of their development
+
 > Learn how to submit Bug report
+
 > Learn how to commit code to their code repository and collaborate with others.
      
  > *Where to find projects? * A good resource is watching communities that participate [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/) every year. It provides a list that you can find which one you prefer and involves in.
@@ -76,11 +80,16 @@ These suggestions listing here are for newcomers who don't know how to start the
  - [ ]   Bug report and testing (Quality Assurance) are also easy for newcomer. It will help you familiar with FOSS community's working progress and collaboration tools.
  - [ ]   Writing Documents requires more English writing skills, but it is a good point to join in too.
  - [ ]  Coding, let's divide it into several parts:
-    - [Solve a bug. It is recommended from bite-sized bug, which means you can solve it by only few lines code even only one line.
-    - Add a new feature to a exist project.
-    - Refactoring a exist part of a exist project.
-    - Developing new model for a project.
-    - Start a new project at a community
+ > [Solve a bug. It is recommended from bite-sized bug, which means you can solve it by only few lines code even only one line.
+ 
+ > Add a new feature to a exist project.
+ 
+ > Refactoring a exist part of a exist project.
+ 
+ > Developing new model for a project.
+ 
+ > Start a new project at a community
+ 
  - [ ]   Artworks. Every community and project needs artworks, UI/UX design, Website and front-end, LOGO trademark and other VI design.
  - [ ]   Marketing. Most FOSS are free (as in free beer), but still someone to do “marketing”. That's mean publicizing the project, proclaiming releases, call out contributors, event hosting, speech at conferences, social networking…etc.
  - [ ]   System Administrator. Most big or international FOSS project has their own website to provide varies services. It require system administrator to maintain that website(s).
