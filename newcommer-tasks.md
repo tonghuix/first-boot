@@ -82,15 +82,16 @@ These suggestions listing here are for newcomers who don't know how to start the
  - [ ]   Bug report and testing (Quality Assurance) are also easy for newcomer. It will help you familiar with FOSS community's working progress and collaboration tools.
  - [ ]   Writing Documents requires more English writing skills, but it is a good point to join in too.
  - [ ]  Coding, let's divide it into several parts:
-       > Solve a bug. It is recommended from bite-sized bug, which means you can solve it by only few lines code even only one line.
+       
+     > Solve a bug. It is recommended from bite-sized bug, which means you can solve it by only few lines code even only one line.
  
-       > Add a new feature to a exist project.
+     > Add a new feature to a exist project.
  
-       > Refactoring a exist part of a exist project.
+     > Refactoring a exist part of a exist project.
  
-       > Developing new model for a project.
+     > Developing new model for a project.
  
-       > Start a new project at a community
+     > Start a new project at a community
  
  - [ ]   Artworks. Every community and project needs artworks, UI/UX design, Website and front-end, LOGO trademark and other VI design.
  - [ ]   Marketing. Most FOSS are free (as in free beer), but still someone to do “marketing”. That's mean publicizing the project, proclaiming releases, call out contributors, event hosting, speech at conferences, social networking…etc.
