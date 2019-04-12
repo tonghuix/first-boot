@@ -11,7 +11,7 @@ You can finish all these tasks just **in A MONTH**!
 
 All listed below are must-have and all important!
 
-- [ ]  English Skill. English is must-have capability to join in a FOSS community. if you cannot read this page without any assistance, please improve your English first.
+- [ ]  English Skill. English is must-have capability to join in a FOSS community. If you cannot read this page without any assistance, please improve your English first.
 - [ ]  For Internet searching, using Google or [DuckDuckGo](https://duckduckgo.com/), don't use Baidu. Google is not a perfect search engine for respecting your freedom, however it is better than Baidu. For runner-up option, [Searx](https://asciimoo.github.io/searx/) is okay for respecting your freedom.
 - [ ]  Learn how to jump outside GFW (you can using ANY method to do it), because most international FOSS projects are outside GFW, and GFW may interrupt connection to their websites, service, and so many things… Remember that if you use someone else's server to jump outside GFW, you have to concern about your privacy, so *ONLY encrypted connection (HTTPS) and encrypted content are allowed ALL THE TIME, especially when you login or submit any privacy information*.
 
