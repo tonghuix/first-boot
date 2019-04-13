@@ -24,7 +24,7 @@ This section introduces some personal preparation.
 
  - [ ]  An English Name, better for participating in an international project.
  - [ ]  **(Important) Gmail/any other mailbox, don't use any mailbox service whose server is located in China. For runner-up option Mirco$oft's Outlook is okay.**
- - [ ]  A blog, which can be read and shared out of China (DreamWidth.org, Medium.com, Noblog.org, Blogger and WordPress are recommended for newcomer)
+ - [ ]  A blog, which can be read and shared out of China (DreamWidth.org, Medium.com, Noblogs.org, Blogger and WordPress are recommended for newcomer)
  - [ ]  Update your profile and resume with skills and FOSS contributions (English and Chinese)
  - [ ]  Generate an OpenPGP (GnuPG) key, upload it to keyserver, and ask friends to sign your public key, Ref: https://emailselfdefense.fsf.org and https://wiki.archlinux.org/index.php/GnuPG . Note that some projects require signing a contributor agreement or other file using your OpenPGP key.
 
